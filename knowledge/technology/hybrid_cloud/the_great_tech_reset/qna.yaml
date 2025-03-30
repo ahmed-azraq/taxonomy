@@ -1,0 +1,162 @@
+created_by: ahmed-azraq
+version: 3
+domain: hybrid-cloud
+document_outline: A paper describing how hybrid by design creates business value
+seed_examples:
+  - context: >-
+      Hybrid by design delivers impressive results. IBM is on its way to $3
+      billion in productivity improvements using hybrid by design. Argentina’s
+      Ministry of Health responded to a 1500% increase in transaction volume
+      during the pandemic using hybrid by design. And Delta’s cloud
+      transformation initiatives are helping the airline make its way better
+      employee engagement, productivity, speed to market, and cost efficiencies
+    questions_and_answers:
+      - question: >-
+          What's IBM expected productivity improvement through using hybrid by
+          design?
+        answer: $3 billion
+      - question: >-
+          What's transaction volume increase for Argentina’s Ministry of Health
+          during the pandemic?
+        answer: 1500% increase in transaction volume
+      - question: What are the benefits of Delta’s cloud transformation initiatives?
+        answer: >-
+          Better employee engagement, productivity, speed to market, and cost
+          efficiencies
+  - context: >-
+      Hybrid by design is a tested, codified architectural framework, running on
+      hybrid cloud, to help organizations optimize business value through
+      technology. It’s a structure that will support their business moving
+      forward, giving them the agility, speed, and integration they need to
+      achieve their future business outcomes. Hybrid by design began in cloud
+      architecture. It described how some organizations designed their hybrid
+      cloud estates—deliberately, through the lens of business priorities. These
+      enterprises used a mix of public and private clouds, as well as
+      on-premises data centers, to help them gain agility and speed, and scale
+      business initiatives. Today, as generative AI invades businesses, the
+      principles behind hybrid by design apply beyond cloud computing to the
+      enterprise as a whole: platforms, security, AI, cloud, data—the entire
+      technology estate. Hybrid by design can turn a cacophony of disparate
+      technologies into a symphony—amplifying business outcomes through wise
+      design and integration.
+    questions_and_answers:
+      - question: What is Hybrid by design?
+        answer: >-
+          Hybrid by design is a tested, codified architectural framework,
+          running on hybrid cloud, to help organizations optimize business value
+          through technology.
+      - question: What was the beginning of hybrid by design?
+        answer: Hybrid by design began in cloud architecture.
+      - question: 'How generative AI impacted hybrid by design? '
+        answer: >-
+          As generative AI invades businesses, the principles behind hybrid by
+          design apply beyond cloud computing to the enterprise as a whole:
+          platforms, security, AI, cloud, data—the entire technology estate.
+  - context: >-
+      Delta mapped the migration that would move all of the airline’s
+      distributed workloads to the hybrid cloud. By modernizing operations with
+      an open hybrid-cloud architecture, Delta can now deploy anywhere and take
+      a consistent, standards-based approach to development, security, and
+      operations across clouds.
+
+      The outcome
+
+      Hundreds of applications have been migrated to the cloud. Delta and its
+      customers are already reaping some of the rewards such as free in-flight
+      Wi-Fi on more than 680 planes. The airline’s cloud transformation
+      initiatives aims to increase employee engagement, productivity, speed to
+      market, and cost efficiencies by between 25%—30%.
+    questions_and_answers:
+      - question: What is the aim of Delta cloud transformation initiatives?
+        answer: >-
+          Delta cloud transformation initiatives aims to increase employee
+          engagement, productivity, speed to market, and cost efficiencies by
+          between 25%—30%.
+      - question: How many applications have been migrated to cloud at Delta?
+        answer: Hundreds of applications
+      - question: >-
+          What is the benefit of modernizing operations with an open
+          hybrid-cloud architecture for Delta?
+        answer: >-
+          Delta can now deploy anywhere and take a consistent, standards-based
+          approach to development, security, and operations across clouds.
+  - context: >-
+      The challenge
+
+      Patients in Argentina often have a primary hospital for the majority of
+      medical needs but also use other health facilities. Or they shuffle
+      between private practices and public hospitals for tests. Because of this,
+      Argentina’s Ministry of Health wanted to automate the flow of public
+      health statistics and the management of underlying systems.
+
+      The solution
+
+      Moving beyond its slow legacy solutions and monolithic applications, AMoH
+      built a national digital health network. The ministry established a
+      flexible yet stable IT infrastructure with a Red Hat® technology
+      foundation, allowing centers to securely access patient data through
+      standardized integration between providers.
+
+      The outcome
+
+      The new digital health network allowed AMoH to respond to a 1500% increase
+      in transaction volume during the COVID-19 pandemic. It also allowed the
+      institution to manage universal electronic records, enabling a quick
+      response to any increase in transaction volume, while also allowing the
+      addition of new services and features.
+    questions_and_answers:
+      - question: >-
+          Why Argentina’s Ministry of Health want to automate the management of
+          underlying systems?
+        answer: >-
+          Patients in Argentina often have a primary hospital for the majority
+          of medical needs but also use other health facilities. Or they shuffle
+          between private practices and public hospitals for tests.
+      - question: What was the basis of the IT infrastructure for AMoH?
+        answer: >-
+          The ministry established a flexible yet stable IT infrastructure with
+          a Red Hat® technology foundation.
+      - question: What is the benefit of the new digital health network at AMoH?
+        answer: >-
+          It allowed the institution to manage universal electronic records,
+          enabling a quick response to any increase in transaction volume, while
+          also allowing the addition of new services and features.
+  - context: >-
+      IBM created an Enterprise Performance Management (EPM) platform as the
+      trusted source of integrated enterprise data and a catalyst for faster
+      decision-making. Based on one enterprise data model, EPM integrates data
+      from all trusted enterprise sources across geographies and business units,
+      breaking down historical data silos. EPM standardizes KPIs and aligns data
+      to enterprise data standards to deliver interactive dashboards and a
+      culture of working “on the glass.” This leads to more proactive analysis
+      and action, driving IBM’s growth and enterprise productivity. EPM delivers
+      trusted business insights and analytics from across the enterprise. Built
+      on one unified data model, the platform brings together insights from
+      marketing, sales, finance, operations, human resources, and supply chain.
+      This empowers users across the enterprise to take action with speed, based
+      on reliable data at their fingertips, generating more than $200 million in
+      enterprise value.
+    questions_and_answers:
+      - question: Why IBM created Enterprise Performance Management (EPM)?
+        answer: >-
+          IBM created an Enterprise Performance Management (EPM) platform as the
+          trusted source of integrated enterprise data and a catalyst for faster
+          decision-making.
+      - question: What is the benefit of Enterprise Performance Management (EPM)?
+        answer: >-
+          EPM standardizes KPIs and aligns data to enterprise data standards to
+          deliver interactive dashboards and a culture of working “on the
+          glass.” This leads to more proactive analysis and action, driving
+          IBM’s growth and enterprise productivity.
+      - question: >-
+          What is the enterprise dollar value generated based on Enterprise
+          Platform Management?
+        answer: >-
+          It empowers users across the enterprise to take action with speed,
+          based on reliable data at their fingertips, generating more than $200
+          million in enterprise value.
+document:
+  repo: https://github.com/ahmed-azraq/instructlab_knowledge.git
+  commit: eca3ab4f369c6cbf1fae57ca3212b6bb65df0216
+  patterns:
+    - tech-reset/the-great-tech-reset.md
