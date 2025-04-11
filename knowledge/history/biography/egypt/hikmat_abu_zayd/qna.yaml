@@ -25,7 +25,7 @@ seed_examples:
       - question: Where was Hikmat Abu Zayd born?
         answer: Born in the village of Shaykh Daud
       - question: When has Hikmat Abu Zayd receive doctorate degree?
-        answer: '1957'
+        answer: Year 1957
       - question: What is Hikmat Abu Zayd education background?
         answer: She completed her secondary education at the Helwan Girls School
   - context: >-
@@ -55,7 +55,7 @@ seed_examples:
       - question: What did Abu Zayd teach in Tripoli?
         answer: She taught political science at Al Fateh University in Tripoli.
       - question: When was the Egyptian National Front set?
-        answer: '1980'
+        answer: Year 1980
   - context: >-
       In late 2010, she was hospitalized at the Anglo-American Hospital in Cairo
       to receive treatment for her bone fractures. Abu Zayd died in Cairo on 30
